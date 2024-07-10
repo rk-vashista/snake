@@ -1,3 +1,3 @@
 #Snake 
 
-![](https://raw.githubusercontent.com/phineas-freak/snake/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/rk-vashista/snake/output/github-contribution-grid-snake-dark.svg)
